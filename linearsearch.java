@@ -10,7 +10,7 @@ public class linearsearch {
     }    
     public static void main(String args[]){
         int numbers[]={13,16,4,5,6,7,67,32};
-        int key=7;
+        int key=16;
 
         int index = linearsearch(numbers,key);
 
