@@ -18,7 +18,7 @@ public class binarysearch {
     }
     public static void main(String args[]){
         int numbers[]={1,2,3,4,5,6,7,8,9,10};
-        int key=7;
+        int key=9;
 
         int answer= binary_search(numbers,key);
         if(answer==-1){
